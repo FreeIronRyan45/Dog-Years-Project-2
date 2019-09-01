@@ -1,6 +1,6 @@
 # Dog-Years-Project-2
 2nd Project from Javascript Course For Codecademy Pro
-https://gist.github.com/ae5f67cf3c352f4b3b9b411a7084a601: Here's the link to the project in Codecademy Pro I did for my Javascript course (Introduction to Javascript).
+https://gist.github.com/ae5f67cf3c352f4b3b9b411a7084a601: Here's the link to the project in Codecademy Pro I did for my Javascript course (Introduction to Javascript) and be sure to right click on link to see project in full. 
 
 INSTRUCTIONS
 
